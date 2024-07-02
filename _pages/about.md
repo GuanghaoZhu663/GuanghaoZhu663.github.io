@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I'm a second year graduate student from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), [School of Optoelectronic Science and Engineering](https://sose.uestc.edu.cn/), where I'm advised by [Prof. Lin Liu](https://faculty.uestc.edu.cn/liulinMOEMIL/zh_CN/index.htm). Previously, I received the bachelor degree in Optoelectronic Information Science and Engineering from University of Electronic Science and Technology of China in 2022.
 
