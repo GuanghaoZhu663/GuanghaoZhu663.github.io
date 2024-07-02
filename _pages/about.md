@@ -11,7 +11,7 @@ I'm a second year graduate student from [University of Electronic Science and Te
 
 You can find my CV here: [Guanghao Zhu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](gzhu663663@gmail.com) / [Github](https://github.com/GuanghaoZhu663)
+[Email](https://gzhu663663@gmail.com) / [Github](https://github.com/GuanghaoZhu663)
 
 A data-driven personal website
 ======
