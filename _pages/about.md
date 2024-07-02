@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year graduate student from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), [School of Optoelectronic Science and Engineering](https://sose.uestc.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
-
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I'm a second year graduate student from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), [School of Optoelectronic Science and Engineering](https://sose.uestc.edu.cn/), where I'm advised by [Prof. Lin Liu](https://faculty.uestc.edu.cn/liulinMOEMIL/zh_CN/index.htm). My research interest includes computer vision, semi-supervised learning, and medical image segmentation.
 
 You can find my CV here: [Guanghao Zhu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
