@@ -31,7 +31,6 @@ Guanghao Zhu, Lin Liu, Yuhao Hu, Haixin Sun, Fang Liu, Xiaohui Du, Ruqian Hao, J
 *Arxiv*, 2024  
 [Paper](https://arxiv.org/abs/2406.17538) / [Code(comming)](https://github.com/GuanghaoZhu663/SKD-TSTSAN)  
 
-![The framework of our UADSN](/images/UADSN.png)  
 [UADSN: Uncertainty-Aware Dual-Stream Network for Facial Nerve Segmentation](https://arxiv.org/abs/2407.00297)  
 Guanghao Zhu, Lin Liu, Jing Zhang, Xiaohui Du, Ruqian Hao, Juanxiu Liu*  
 *Arxiv*, 2024  
