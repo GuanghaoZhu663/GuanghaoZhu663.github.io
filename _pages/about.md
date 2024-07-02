@@ -39,7 +39,3 @@ Guanghao Zhu, Lin Liu, Jing Zhang, Xiaohui Du, Ruqian Hao, Juanxiu Liu*
 *Arxiv*, 2024  
 [Paper](https://arxiv.org/abs/2407.00297)  
 
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
