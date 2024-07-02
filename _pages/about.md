@@ -1,5 +1,5 @@
 
-I'm a second year graduate student from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), [School of Optoelectronic Science and Engineering](https://sose.uestc.edu.cn/), where I'm advised by [Prof. Lin Liu](https://faculty.uestc.edu.cn/liulinMOEMIL/zh_CN/index.htm).
+I'm a second year graduate student from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), [School of Optoelectronic Science and Engineering](https://sose.uestc.edu.cn/), where I'm advised by [Prof. Lin Liu](https://faculty.uestc.edu.cn/liulinMOEMIL/zh_CN/index.htm). Previously, I received the bachelor degree in Optoelectronic Information Science and Engineering from University of Electronic Science and Technology of China in 2022.
 
 You can find my CV here: [Guanghao Zhu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
