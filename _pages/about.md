@@ -1,11 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 I'm a second year graduate student from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), [School of Optoelectronic Science and Engineering](https://sose.uestc.edu.cn/), where I'm advised by [Prof. Lin Liu](https://faculty.uestc.edu.cn/liulinMOEMIL/zh_CN/index.htm).
 
