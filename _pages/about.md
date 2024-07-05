@@ -38,3 +38,8 @@ Preprints
 **Guanghao Zhu**, Lin Liu, Jing Zhang, Xiaohui Du, Ruqian Hao, Juanxiu Liu*  
 *Arxiv*, 2024  
 [Paper](https://arxiv.org/abs/2407.00297)  
+
+Awards
+======
+National Scholarship in China (2023)
+First Class Academic Scholarship for Postgraduates (2022/2023)
