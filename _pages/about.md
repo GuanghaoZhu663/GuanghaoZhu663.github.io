@@ -22,8 +22,8 @@ Preprints
 ![The framework of our AstMatch](/images/AstMatch.png)  
 [AstMatch: Adversarial Self-training Consistency Framework for Semi-Supervised Medical Image Segmentation](https://arxiv.org/abs/2406.19649)  
 **Guanghao Zhu**, Jing Zhang, Juanxiu Liu, Xiaohui Du, Ruqian Hao, Yong Liu, Lin Liu*  
-*Arxiv*, 2024  
-[Paper](https://arxiv.org/abs/2406.19649) / [Code](https://github.com/GuanghaoZhu663/AstMatch)  
+*Neurocomputing*, 2025  
+[Paper](https://www.sciencedirect.com/science/article/pii/S0925231225011634) / [Code](https://github.com/GuanghaoZhu663/AstMatch)  
 
 
 ![The framework of our SKD-TSTSAN](/images/SKD-TSTSAN.png)  
