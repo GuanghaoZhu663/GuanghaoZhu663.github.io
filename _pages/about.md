@@ -31,7 +31,7 @@ Congkai Xie, Shuo Cai, Wenjun Wang, Pengxiang Li, Zhijie Sang, Kejing Yang, Yimi
 
 
 ![The framework of our AstMatch](/images/AstMatch.png)  
-[AstMatch: Adversarial Self-training Consistency Framework for Semi-Supervised Medical Image Segmentation](https://www.sciencedirect.com/science/article/pii/S0925231225011634) 
+[AstMatch: Adversarial Self-training Consistency Framework for Semi-Supervised Medical Image Segmentation](https://www.sciencedirect.com/science/article/pii/S0925231225011634)  
 **Guanghao Zhu**, Jing Zhang, Juanxiu Liu, Xiaohui Du, Ruqian Hao, Yong Liu, Lin Liu*  
 *Neurocomputing*, 2025  
 [Paper](https://www.sciencedirect.com/science/article/pii/S0925231225011634) / [Code](https://github.com/GuanghaoZhu663/AstMatch)  
