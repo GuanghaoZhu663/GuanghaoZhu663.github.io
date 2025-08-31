@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "GuanghaoZhu.png"
+  avatar           : "GuanghaoZhu.jpg"
   name             : "Guanghao Zhu"
   pronouns         : # example: "she/her"  
-  bio              : "Graduate Student at UESTC"
-  location         : "Chengdu, Sichuan"
-  employer         : "UESTC"
+  bio              : "First-year PhD student at PolyU"
+  location         : "Hong Kong SAR, China"
+  #employer         : "UESTC"
   uri              : # URL
   email            : gzhu663663@gmail.com
 
