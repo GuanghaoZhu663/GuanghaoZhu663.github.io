@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in the Department of Computing at the [Hong Kong Polytechnic University](https://www.polyu.edu.hk/), advised by Prof. Hongxia Yang. I received my Master’s degree from the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) in 2025, supervised by [Prof. Lin Liu](https://faculty.uestc.edu.cn/liulinMOEMIL/zh_CN/index.htm). I obtained my Bachelor’s degree from the [UESTC](https://www.uestc.edu.cn/) in 2022. 
+I am a first-year PhD student in the Department of Computing at the [Hong Kong Polytechnic University](https://www.polyu.edu.hk/), advised by [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/). I received my Master’s degree from the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) in 2025, supervised by [Prof. Lin Liu](https://faculty.uestc.edu.cn/liulinMOEMIL/zh_CN/index.htm). I obtained my Bachelor’s degree from the [UESTC](https://www.uestc.edu.cn/) in 2022. 
 
 [Email](mailto:gzhu663663@gmail.com) / [Github](https://github.com/GuanghaoZhu663) / [Google Scholar](https://scholar.google.com.hk/citations?user=DLCTYXwAAAAJ&hl=zh-CN&oi=sra)
 
@@ -18,17 +18,15 @@ My current research interests mainly focus on the field of multimodal large lang
 Publications and Manuscripts
 ======
 
-[Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models]
-(https://arxiv.org/abs/2505.23091)
-Zeyu Liu, Yuhang Liu, **Guanghao Zhu**, Congkai Xie, Zhen Li, Jianbo Yuan, Xinyao Wang, Qing Li, Shing-Chi Cheung, Shengyu Zhang, Fei Wu, Hongxia Yang
-*Arxiv*, 2025
+[Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models](https://arxiv.org/abs/2505.23091)  
+Zeyu Liu, Yuhang Liu, **Guanghao Zhu**, Congkai Xie, Zhen Li, Jianbo Yuan, Xinyao Wang, Qing Li, Shing-Chi Cheung, Shengyu Zhang, Fei Wu, Hongxia Yang  
+*Arxiv*, 2025  
 [Paper](https://arxiv.org/abs/2505.23091)
 
 
-[InfiR: Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning]
-(https://arxiv.org/abs/2502.11573)
-Congkai Xie, Shuo Cai, Wenjun Wang, Pengxiang Li, Zhijie Sang, Kejing Yang, Yiming Zhang, Zhen Li, **Guanghao Zhu**, Zeyu Liu, Yang Yu, Yuhang Liu, Su Lu, Baoyi He, Qi Zhou, Xiaotian Han, Jianbo Yuan, Shengyu Zhang, Fei Wu, Hongxia Yang
-*Arxiv*, 2025
+[InfiR: Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning](https://arxiv.org/abs/2502.11573)  
+Congkai Xie, Shuo Cai, Wenjun Wang, Pengxiang Li, Zhijie Sang, Kejing Yang, Yiming Zhang, Zhen Li, **Guanghao Zhu**, Zeyu Liu, Yang Yu, Yuhang Liu, Su Lu, Baoyi He, Qi Zhou, Xiaotian Han, Jianbo Yuan, Shengyu Zhang, Fei Wu, Hongxia Yang  
+*Arxiv*, 2025  
 [Paper](https://arxiv.org/abs/2502.11573)
 
 
